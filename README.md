@@ -11,6 +11,8 @@ Informação sobre tecnologia, dicas, tutoriais, mini-cursos e muito mais.
 
 Seja muito bem-vindo e bem-vinda ao curso de criação de aplicativos para dispositivos móveis com React Native, Expo Bare Workflow, Typescript, Styled-Components, React Hook Form e várias outras bibliotecas.
 
+Acesse a [página do curso na Udemy](https://www.udemy.com/course/react-native-typescript/?referralCode=57DB748A99E85CBD3D6F) para conferir o conteúdo.
+
 Neste repositório encontra-se o código da API Back-end desenvolvida com Node.js, que será consumida no curso de desenvolvimento de App Mobile com React Native.
 
 ## Rodando a API Node.js no seu PC
